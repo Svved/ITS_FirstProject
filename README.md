@@ -8,3 +8,4 @@ First project of my AI &amp; Data Scientist Digital Academy course
 -commit o no
 -commit and push 
 amadjfhsdkjfhh
+psinle
