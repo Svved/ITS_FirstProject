@@ -5,3 +5,4 @@ First project of my AI &amp; Data Scientist Digital Academy course
 -modfico ancore
 -modifico 3 volta per prova
 -4 modifica
+-commit o no
